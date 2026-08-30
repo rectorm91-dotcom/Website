@@ -14,20 +14,20 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   metadataBase: new URL('https://rtcarter1.com'),
-  title: 'RT | Aviation & Developer',
-  description: 'RT is an aviation enthusiast and Lua, Luau, and JavaScript developer based in Dallas, Texas.',
+  title: 'RTCarter1',
+  description: 'About RTCarter1',
   openGraph: {
-    title: 'RT | Aviation & Developer',
-    description: 'Aviation enthusiast and developer based in Dallas, Texas.',
+    title: 'RTCarter1',
+    description: 'About RTCarter1',
     url: 'https://rtcarter1.com',
     siteName: 'RT',
-    images: [{ url: '/og.png', width: 1200, height: 630, alt: 'RT — Aviation | Developer' }],
+    images: [{ url: '/og.png', width: 1200, height: 630, alt: 'RT - Aviation & Developer' }],
     type: 'website',
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'RT | Aviation & Developer',
-    description: 'Aviation enthusiast and developer based in Dallas, Texas.',
+    title: 'RTCarter1',
+    description: 'About RTCarter1',
     images: ['/og.png'],
   },
 };
